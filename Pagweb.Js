@@ -1,0 +1,2 @@
+var interaccion=prompt("Introdusca su nombre para vivir una mejor experiencia por favor si no desea escribir el nombre podra continuar pero pronto sabremos su nombre");
+alert("Bienvenido SR o SRA: "+interaccion);
